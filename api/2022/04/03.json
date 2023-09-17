@@ -1,0 +1,15 @@
+{
+    "date": "2022-04-03",
+    "colors": [
+        "#FFFFFF",
+        "#00FF39",
+        "#0004FE",
+        "#FFD300"
+    ],
+    "filterable": [
+        "#FFFFFF",
+        "#00FF00",
+        "#0000FF",
+        "#FFFF00"
+    ]
+}
