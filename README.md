@@ -54,6 +54,8 @@
 
 The goal of the project is, simply put, to **improve APODs**. This improvement includes, for example, the ability to add more information, as well as color-based searching and filtering.
 
+[Here](/docs/README.md) you can read the documentation and find more detailed information about the project.
+
 <p align="right"><a href="#readme-top">ᴛᴏᴘ⇈</a></p>
 
 ## Getting Started
